@@ -35,7 +35,6 @@ The application integrates with **Airtable** to manage event registrations:
 3. Data is automatically stored in the Airtable database
 4. Admins can view and manage RSVPs through the Airtable interface
 
-![Airtable RSVP Database](https://github.com/captflag/Simplilearn-assesment/blob/main/public/airtable-screenshot.png)
 
 ## 🚀 Getting Started
 
@@ -196,12 +195,6 @@ The easiest way to deploy this Next.js app is to use the [Vercel Platform](https
 
 Check out the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-## 📸 Screenshots
-
-### Airtable RSVP Management
-The backend RSVP management system showing registered attendees:
-
-![Airtable Database View](./docs/airtable-screenshot.png)
 
 ## 🤝 Contributing
 
