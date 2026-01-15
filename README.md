@@ -35,6 +35,21 @@ The application integrates with **Airtable** to manage event registrations:
 3. Data is automatically stored in the Airtable database
 4. Admins can view and manage RSVPs through the Airtable interface
 
+### 📸 Live Integration Proof
+
+Our RSVP system is fully integrated with Airtable and tested with successful submissions:
+
+![Airtable Integration - Successful RSVP Submissions](./airtable-proof.png)
+
+**Screenshot shows**:
+- ✅ Multiple successful form submissions
+- ✅ Data captured: Name, Email, Company
+- ✅ Proper field mapping and data storage
+- ✅ Real-time synchronization with Airtable base
+- ✅ Clean, organized record structure
+
+The form successfully captures and stores all RSVP data without errors, with submissions appearing instantly in the Airtable interface for easy management and tracking.
+
 
 ## 🚀 Getting Started
 
